@@ -99,6 +99,7 @@ ENV/
 *.ctenv
 *.csv
 *.npy
+*.bed*
 
 .idea/
 
