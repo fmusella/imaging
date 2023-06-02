@@ -95,8 +95,7 @@ ENV/
 *.png
 *.hcs
 *_wrap.c*
-*.ct
-*.ctenv
+*.ct*
 *.csv
 *.npy
 *.bed*
