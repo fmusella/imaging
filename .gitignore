@@ -99,6 +99,7 @@ ENV/
 *.csv
 *.npy
 *.bed*
+*.pkl
 
 .idea/
 
